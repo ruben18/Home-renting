@@ -1,3 +1,5 @@
+Project developed in Angular to test the framework.
+
 # How to run the project
 
 ```npm start```
